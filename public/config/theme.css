@@ -1,0 +1,17 @@
+:root {
+  --primary: #000000;
+  --primary-text: #868484;
+  --secondary: #2b7af1;
+  --secondary-text: #ffffff;
+  --accent: #505050;
+  --accent-text: #ffffff;
+  --accentmint: #FFD700;
+  --accentprice: #40E0D0;
+  --accentsupply: #D891EF;
+  --accenterror: #FF0000;
+  --accentbox: #041C32;
+  --accentbutton: #40826D;
+  --accenttree: #01a049;
+  --accentadd: #FA8072;
+
+}

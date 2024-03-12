@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3F1b56C64c9FFFdE6e6e0e93B4149a9EF4362eBc",
+  "SCAN_LINK": "https://etherscan.io/address/0x3F1b56C64c9FFFdE6e6e0e93B4149a9EF4362eBc",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "CryptoVibrantArrows",
+  "SYMBOL": "CVA",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0.0,
+  "GAS_LIMIT": 240000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptovibrantarrows",
+  "SHOW_BACKGROUND": true
+}
